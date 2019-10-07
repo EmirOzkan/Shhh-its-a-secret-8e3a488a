@@ -1,0 +1,25 @@
+label{
+	display: block;
+	font: irem;
+
+}
+
+.size{
+	font-size: 32px;
+	text-align: center;
+	justify-content: center;
+	width:  100vw;
+}
+
+.labelcenter{
+	width: 20vw;
+	text-align: center;
+	justify-content: center;
+}
+
+.center{
+	text-align: center;
+	justify-content: center;
+	width: 20vw;
+}
+
